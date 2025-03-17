@@ -64,19 +64,16 @@
 ###
 
 <div align="center">
-  <a href="https://twitter.com/YOUR_TWITTER_USERNAME" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+  <a href="https://www.linkedin.com/in/piget-matheo-9654bb333/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+  <a href="mailto:matheo.piget5@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="https://instagram.com/YOUR_INSTAGRAM_USERNAME" target="_blank">
+  <a href="[https://instagram.com](https://www.instagram.com/ma__theo_/)/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
-  <a href="https://YOUR_WEBSITE_URL" target="_blank">
+  <a href="https://matheo-piget.github.io/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   </a>
 </div>
@@ -84,7 +81,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/Matheo-Piget/count.svg?"  />
 </div>
 
 ###
