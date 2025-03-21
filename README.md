@@ -1,5 +1,3 @@
-![](https://github.com/HOTHEAD01TH/HOTHEAD01TH/blob/main/header.png)
-<!-- Typing SVG -->
 ###
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=1500&pause=500&color=fdb74e&center=true&vCenter=true&lines=Bonjour+Je+m'appelle+Mathéo+Piget;Je+suis;Étudiant+en+Informatique;Développeur+Passionné;Amateur+de+Programmation;et+Futur+Pro+du+Code" width= "1000" alt="Typing SVG"/>
@@ -54,12 +52,6 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=b7v2tm4wamdpkw92zd6wrhmb8&count=3&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Matheo-Piget/Matheo-Piget/output/snake.svg" alt="Snake animation" />
 
 ###
 
