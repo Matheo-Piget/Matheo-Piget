@@ -101,7 +101,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="Portfolio"/>
   </a>
 </div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Matheo-Piget&color=fdb74e&style=flat-square&label=Visiteurs" alt="Profile views"/>
-</div>
