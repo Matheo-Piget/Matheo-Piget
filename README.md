@@ -1,9 +1,8 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=800&color=FDB74E&center=true&vCenter=true&width=650&lines=👋+Salut%2C+moi+c'est+Mathéo+Piget;💻+Étudiant+en+Informatique;🚀+Développeur+passionné;🎯+Always+learning%2C+always+building" alt="Typing SVG"/>
+# 👋 Salut, moi c'est Mathéo
 
-<br/>
+### 💻 Étudiant en Informatique &nbsp;·&nbsp; 🚀 Développeur passionné
 
 <img src="https://komarev.com/ghpvc/?username=Matheo-Piget&label=Profile%20views&color=fdb74e&style=flat" alt="Profile views"/>
 
@@ -11,23 +10,14 @@
 
 <br/>
 
-## 🧑‍💻 À propos de moi
+## 🧑‍💻 À propos
 
-```yaml
-name: Mathéo Piget
-role: Étudiant en Informatique & Apprenti développeur
-location: Île-de-France, France 🇫🇷
-focus:
-  - Développement logiciel
-  - Game development (Unity / C#)
-  - Algorithmique & structures de données
-hobbies:
-  - Codewars 🥋
-  - Board games & idle games 🎲
-  - Toujours apprendre quelque chose de nouveau 📚
-contact: matheo.piget5@gmail.com
-portfolio: https://matheo-piget.github.io/
-```
+- 🎓 Étudiant en **Informatique**, passionné par le développement logiciel
+- 🌱 Toujours en train d'apprendre — nouveaux langages, frameworks, idées
+- 🏆 Pratique régulière sur **Codewars** pour entretenir ma logique algorithmique
+- 🎮 Je développe aussi mes propres projets de jeux en **Unity / C#**
+- 🌍 Portfolio : [matheo-piget.github.io](https://matheo-piget.github.io/)
+- 📫 Contact : **matheo.piget5@gmail.com**
 
 <br/>
 
@@ -35,13 +25,13 @@ portfolio: https://matheo-piget.github.io/
 
 <div align="center">
 
-### Langages
+**Langages**
 
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,html,css&theme=dark" alt="Langages"/>
 </p>
 
-### Frameworks & Outils
+**Frameworks & Outils**
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs,unity,git,github,vscode,linux,latex&theme=dark" alt="Outils"/>
@@ -55,17 +45,9 @@ portfolio: https://matheo-piget.github.io/
 
 <div align="center">
 
-<a href="https://github.com/Matheo-Piget">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Matheo-Piget&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=fdb74e&icon_color=fdb74e&text_color=c9d1d9" alt="GitHub Stats"/>
-</a>
-<a href="https://github.com/Matheo-Piget">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheo-Piget&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=fdb74e&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/Matheo-Piget">
-  <img src="https://streak-stats.demolab.com?user=Matheo-Piget&theme=tokyonight&hide_border=true&background=0D1117&ring=fdb74e&fire=fdb74e&currStreakLabel=fdb74e" alt="GitHub Streak" height="165"/>
+<a href="http://github.com/Matheo-Piget">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Matheo-Piget&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=fdb74e&icon_color=fdb74e" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheo-Piget&layout=compact&theme=tokyonight&hide_border=true&title_color=fdb74e&langs_count=8" alt="Top Languages"/>
 </a>
 
 </div>
@@ -104,9 +86,5 @@ portfolio: https://matheo-piget.github.io/
 <br/>
 
 <div align="center">
-
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
-<sub>⭐ N'hésite pas à explorer mes repos et à laisser une étoile si quelque chose te plaît !</sub>
-
+  <sub>⭐ N'hésite pas à explorer mes repos et à laisser une étoile si quelque chose te plaît</sub>
 </div>
